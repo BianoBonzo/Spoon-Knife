@@ -1,0 +1,1 @@
+I'm interested in machine learning based projects using public libraries. I think that these projects should be organized through common repositories since these projects require different components to work when put together. Through common repositories, our team will always be on the same page as to the progress of the project and what we need to work on first.
